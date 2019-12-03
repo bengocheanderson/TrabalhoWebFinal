@@ -20,10 +20,6 @@ $Crud->insertDB(
 );
 ?>
 
-<div class="alert alert-primary" role="alert">
-  Seu Cadastro em Nosso Sistema foi Realizado com Sucesso.
-</div>
-<a href="../Index.php">Voltar</a>
 
 <?php
 }else{
@@ -43,8 +39,7 @@ $Crud->insertDB(
 
 ?>
 
-
 <div class="alert alert-primary" role="alert">
-  Seu Cadastro em Nosso Sistema foi Editado com Sucesso.
+  Solicitação Realizada com Sucesso.
 </div>
 <a href="../Index.php">Voltar</a>
