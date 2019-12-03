@@ -34,9 +34,7 @@
         <li class="nav-item">
           <a class="nav-link" href="Selecao.php">Selecao</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Update</a>
-        </li>
+        
 
       </ul>
     </div>
